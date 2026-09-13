@@ -1,7 +1,4 @@
-# D-DNA-to-L-DNA-.pdb-converter
-this is a simple python script that inverts D-DNA pdb files into mirror life, L-DNA sequences by inverting the file geometry
-
-
+# D-DNA-to-L-DNA-.pdb-converter #
 
 
 
@@ -11,9 +8,7 @@ the author of this script will not be held responsible for distribution or any u
 
 
 
-
 this file was written by Damien-Blackwell at Damien-Blackwell-personal on GITHUB
-
 
 
 
