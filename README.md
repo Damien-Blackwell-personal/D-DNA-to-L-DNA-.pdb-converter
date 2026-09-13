@@ -3,7 +3,7 @@ This is a simple python script that inverts D-DNA pdb files into mirror life, L-
 creators: Damien Blackwell @Damien-Blackwell-personal/GITHUB
 
 #
-#                                                                                                       -LISCENSE-
+#------------------------------------------------------LISCENSE--------------------------------------------------------------
 #                                                                                                            
 #
 #                                                            the author of this script will not be held responsible for distribution or any usages of the granted script. 
