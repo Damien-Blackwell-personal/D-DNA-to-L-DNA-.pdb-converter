@@ -1,13 +1,15 @@
 # dbb's invert_dna.py
 
 # replace "import_your.pdb" whith the file path to the d-dna .pdb you want to translate. 
-#replace "name_for_exported_file" with the name you want for the exported file 
+#replace "name_for_exported_file.pdb" with the name you want for the exported file 
 
 
 
 #-----------------------------------------------------------------------------------------------------------------------
-  
-with open('custom_dna.pdb', 'r') as f_in, open('l_dna_codon1.pdb', 'w') as f_out:
+  just coppy the script below:
+
+
+with open('import_your.pdb', 'r') as f_in, open('name_for_exported_file.pdb', 'w') as f_out:
     for line in f_in:
         #this Only targets rows that contain atomic coordinates
         if line.startswith("ATOM") or line.startswith("HETATM"):
